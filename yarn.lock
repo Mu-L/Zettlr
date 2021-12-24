@@ -729,10 +729,10 @@
     "@types/glob" "*"
     "@types/node" "*"
 
-"@types/sanitize-html@^2.5.0":
-  version "2.5.0"
-  resolved "https://registry.yarnpkg.com/@types/sanitize-html/-/sanitize-html-2.5.0.tgz#bfef58fbcf2674b20ffcc23c3506faa68c3a13e3"
-  integrity sha512-PeFIEZsO9m1+ACJlXUaimgrR+5DEDiIXhz7Hso307jmq5Yz0lb5kDp8LiTr5dMMMliC/jNNx/qds7Zoxa4zexw==
+"@types/sanitize-html@^2.6.1":
+  version "2.6.1"
+  resolved "https://registry.yarnpkg.com/@types/sanitize-html/-/sanitize-html-2.6.1.tgz#970193524df719f716c5bcf8db579859c446cd17"
+  integrity sha512-+JLlZdJkIHdgvlFnMorJeLv5WIORNcI+jHsAoPBWMnhGx5Rbz/D1QN5D4qvmoA7fooDlEVy6zlioWSgqbU0KeQ==
   dependencies:
     htmlparser2 "^6.0.0"
 
